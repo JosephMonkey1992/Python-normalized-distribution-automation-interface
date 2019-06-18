@@ -1,10 +1,10 @@
-# Python-normalized-distribution-automation-interface
+# Python normalized distribution automation interface
 use python to fetch stock prices of targeted IPO companies every one hour and create normalized distribution graph.
 ## Top Interview
-[2.create function of geting price](#2create function of geting price)  
-[5.refine those data collected](#5refine those data collected)  
-[146.create normalized distribution graph](#146create normalized distribution graph)  
-[380.plot and set time](#380plot and set time)  
+- [2.create function of geting price](#2create-function-of-geting-price)  
+- [5.refine those data collected](#5refine-those-data-collected)  
+- [146.create normalized distribution graph](#146create-normalized-distribution-graph)  
+- [380.plot and set time](#380plot-and-set-time)  
 ### 2.create function of geting price
 ```python
 import urllib ##Basic use 
